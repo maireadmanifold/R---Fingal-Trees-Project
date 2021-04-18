@@ -1,4 +1,4 @@
-# Fingal Trees Project
+# R - Fingal Trees Project
 Project carried out on April 2020 for "Programming for Big Data" (Higher Diploma in Data Analytics at National College of Ireland). The project looks at tree coverage in the Fingal area of north Dublin and contrasted it with population and house prices in the area. Tree data was sourced from Fingal County Council, Population data was collected from a combination of CSO and myhome.ie. Property prices was collected from the Ireland's Property Price Register. 
 
 # Getting Started
